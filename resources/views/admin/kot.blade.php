@@ -7,7 +7,7 @@
 
             <div class="row">
               <div class="col-lg-6 fixed">
-                <h2 class="text-center">Dinding Orders</h1>
+                <h2 class="text-center">Dining Orders</h1>
                 <div id="kot_dining_card" class="row">      
                     <div>
                       
